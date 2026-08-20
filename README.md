@@ -713,6 +713,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## Circuit board :
  ### 4A:
  <img width="1200" height="1600" alt="337f7cac-39f2-4cd2-ab91-453b5e78ce09" src="https://github.com/user-attachments/assets/77142822-bf9a-44d4-b67e-ed8dfc6fa9ee" />
+
 ### 4B:
 <img width="1200" height="1600" alt="620ef01e-0bb4-4b83-a064-b1680356a293" src="https://github.com/user-attachments/assets/0ddb08c0-ecf8-4f56-a45d-a1613eb699ea" />
 <img width="1200" height="1600" alt="337f7cac-39f2-4cd2-ab91-453b5e78ce09" src="https://github.com/user-attachments/assets/c3c41260-fded-4945-87c0-e72a7c25b464" />
