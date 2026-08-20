@@ -705,7 +705,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ### 4(A) - Output:
  <img width="1917" height="1076" alt="Screenshot 2026-08-06 120218" src="https://github.com/user-attachments/assets/5176d495-4216-4cb5-ab29-87a6cbfc3d74" />
-### 4(B) - Output:
+
+ ### 4(B) - Output:
 <img width="1917" height="1078" alt="Screenshot 2026-08-01 160140" src="https://github.com/user-attachments/assets/fa526c39-0e66-47f2-ae27-14fce4aee233" />
 
  
